@@ -1,0 +1,22 @@
+.transactionHistory{
+  margin-top: 30px;
+  width: 100%;
+}
+
+.tableHead{
+  border: 1px solid #ddd;
+    padding: 8px;
+  
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #04AA6D;
+    color: white;
+}
+
+.tableBody{
+  text-transform: capitalize;
+  
+  border: 1px solid #ddd;
+  padding: 8px;
+}
